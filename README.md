@@ -12,8 +12,6 @@ Podemos ter várias linhas editadas em conjunto, o que facilita para a equipe.
 - git init
 - git clone
 - git status
-- cd aprendendo a usar git
-- git status
 - git add README.md
 - git status 
 - git commit -m  " "                               
