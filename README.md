@@ -8,3 +8,13 @@ O GitHub também pode ser conhecido com um controlador de versionamento.
 Além disso ele é excelente para trabalhos em equipe!
 
 Podemos ter várias linhas editadas em conjunto, o que facilita para a equipe.
+
+- git init
+- git clone
+- git status
+- cd aprendendo a usar git
+- git status
+- git add README.md
+- git status 
+- git commit -m  " "                               
+- git push origin master
